@@ -17,8 +17,8 @@ variables:
   enable_monitoring: false
 
   # Azure DevOps
-  ado_service_connection_rg: Azure-ARM-Prod-MLOPS-GIT
-  ado_service_connection_aml_ws: Azure-ARM-Prod-MLOPS-GIT
+  ado_service_connection_rg: Azure-ARM-Prod-GIT-MLOPS
+  ado_service_connection_aml_ws: Azure-ARM-Prod-GIT-MLOPS
 
   # DO NOT TOUCH
 
